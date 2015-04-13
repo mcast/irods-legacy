@@ -11,7 +11,7 @@
 #include "rodsPackInstruct.h"
 
 #define MAX_LISTEN_QUE	50
-#define SOCK_WINDOW_SIZE	(1*1024*1024)   /* sock window size = 1 Mb */
+#define SOCK_WINDOW_SIZE	(16*1024*1024)   /* sock window size = 1 Mb */
 #define MIN_SOCK_WINDOW_SIZE	(16*1024)   /* min sock window size = 16 kb */
 #define MAX_SOCK_WINDOW_SIZE	(16*1024*1024) /* max window size = 16 Mb */
 #define DEF_NUMBER_SVR_PORT	200	/* default number of of server ports */

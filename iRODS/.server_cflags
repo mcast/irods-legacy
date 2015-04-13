@@ -1,0 +1,1 @@
+ -I/usr/local/iRODS/modules/properties/microservices/include -I/usr/local/iRODS/modules/ERA/microservices/include -I/usr/local/iRODS/modules/msoDrivers/microservices/include -I/usr/local/iRODS/modules/examples/microservices/include
