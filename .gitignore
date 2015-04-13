@@ -1,0 +1,5 @@
+
+# built
+iRODS/clients/icommands/bin/i*
+iRODS/clients/icommands/bin/genOSAuth
+iRODS/server/bin/irods*
